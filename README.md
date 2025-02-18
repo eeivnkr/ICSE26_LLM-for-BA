@@ -1,6 +1,6 @@
-# Artifact of FSE 2025 Submission
+# Artifact of ICSE 2026 Submission
 
-Artifact of FSE 2025 Submission: Boosting Binary Analysis with RAG-Augmented Large Language Models
+Artifact of ICSE 2026 Submission: Boosting Binary Analysis with RAG-Augmented Large Language Models
 
 This artifact repo consists of the following two parts. For each part, please refer to the detailed README file under each folder:
 
